@@ -25,3 +25,17 @@
 >5. 部分匹配搜索功能。给定若干个关键字，能快速搜索到题目中包含该关键字的文章信息
 >6. 聚团分析。作者之间的合作关系可以看成是一个图，每个作者对应一个顶点，任两个作者之间如果存在合作关系，则在两个顶点之间建立连边。这个图中的每一个完全子图我们称为一个聚团（所谓完全子图指的是该子图的任意顶点都和该子图的其他顶点有连边，完全子图的顶点个数称为该完全子图的阶数），请统计整个图中各阶完全子图的个数。
 >7. 可视化显示。通过图形化界面，展示作者之间合作关系图及其相关文章信息。
+
+#### xml文件结构示例
+```xml
+<article mdate="2002-01-03" key="persons/Codd71a">
+<author>E. F. Codd</author>
+<title>Further Normalization of the Data Base Relational Model.</title>
+<journal>IBM Research Report, San Jose, California</journal>
+<volume>RJ909</volume>
+<month>August</month>
+<year>1971</year>
+<cdrom>ibmTR/rj909.pdf</cdrom>
+<ee>db/labs/ibm/RJ909.html</ee>
+</article>
+```

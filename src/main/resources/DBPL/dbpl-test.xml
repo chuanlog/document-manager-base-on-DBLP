@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<!-- 用来提供测试支持的小规模数据集 -->
+<!-- 1000行左右，文章的标签主要有www、inproceedings、incollection等 -->
+<dblp>
+    <www mdate="2023-08-28" key="www/edu/ewd">
+        <title>E. W. Dijkstra Archive: The manuscripts of Edsger W. Dijkstra 1930-2002</title>
+        <ee>https://www.cs.utexas.edu/~EWD/</ee>
+        <year>2021</year>
+    </www>
+
+    <inproceedings mdate="2019-07-30" key="www/org/mitre/future">
+        <author>Arnon Rosenthal</author>
+        <title>The Future of Classic Data Administration: Objects + Databases + CASE</title>
+        <booktitle>SWEE</booktitle>
+        <year>1998</year>
+        <url>db/conf/swee/swee1998.html</url>
+        <crossref>conf/swee/1998</crossref>
+        <ee>http://www.mitre.org/support/swee/rosenthal.html</ee>
+    </inproceedings>
+    <www mdate="2019-07-10" key="www/org/aiim-wfmc">
+        <title>WfMC Standards: The Workflow Reference Model, Version 1.1.</title>
+        <year>1995</year>
+        <ee>http://www.aiim.org/wfmc/mainframe.htm</ee>
+    </www>
+    <www mdate="2019-07-10" key="www/org/oasis-open-cover-xml">
+        <author>Robin Cover</author>
+        <title>The SGML/XML Web Page</title>
+        <ee>http://xml.coverpages.org/sgml-xml.html</ee>
+        <year>2006</year>
+    </www>
+    <www mdate="2019-07-10" key="www/org/w3/dom">
+        <title>W3C: Document Oject Model (DOM)</title>
+        <ee>http://www.w3.org/DOM/</ee>
+        <year>1997</year>
+    </www>
+    <www mdate="2019-07-10" key="www/org/w3/ql98">
+        <title>W3C: The w3c Query Language Workshop, December 1998, Boston, MA, USA</title>
+        <year>1998</year>
+        <ee>http://www.w3.org/TandS/QL/QL98/</ee>
+    </www>
+    <www mdate="2019-07-10" key="www/org/w3/style-xsl">
+        <title>W3C: Extensible Stylesheet Language (XSL)</title>
+        <ee>http://www.w3.org/Style/XSL/</ee>
+        <year>2001</year>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/query-datamodel">
+        <editor>Mary F. Fernandez</editor>
+        <editor>Jonathan Robie</editor>
+        <title>XML Query Data Model</title>
+        <year>2001</year>
+        <ee>http://www.w3.org/TR/query-datamodel</ee>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/xquery">
+        <editor>Donald D. Chamberlin</editor>
+        <editor>Daniela Florescu</editor>
+        <editor>Jonathan Robie</editor>
+        <editor>Jérôme Siméon</editor>
+        <editor>Mugur Stefanescu</editor>
+        <title>XQuery: A Query Language for XML</title>
+        <year>2001</year>
+        <ee>http://www.w3.org/TR/xquery</ee>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/xmlquery-req">
+        <editor>Donald D. Chamberlin</editor>
+        <editor>Peter Fankhauser</editor>
+        <editor>Massimo Marchiori</editor>
+        <editor>Jonathan Robie</editor>
+        <title>XML Query Requirements</title>
+        <year>2001</year>
+        <ee>http://www.w3.org/TR/xmlquery-req</ee>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/query-algebra">
+        <editor>Peter Fankhauser</editor>
+        <editor>Mary F. Fernández</editor>
+        <editor>Ashok Malhotra</editor>
+        <editor>Michael Rys</editor>
+        <editor>Jérôme Siméon</editor>
+        <editor>Philip Wadler</editor>
+        <title>The XML Query Algebra</title>
+        <year>2001</year>
+        <ee>http://www.w3.org/TR/2000/WD-query-algebra-20001204/</ee>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/NOTE-xml-ql">
+        <author>Alin Deutsch</author>
+        <author>Mary F. Fernandez</author>
+        <author>Daniela Florescu</author>
+        <author>Alon Y. Levy</author>
+        <author>Dan Suciu</author>
+        <title>XML-QL: A Query Language for XML</title>
+        <ee>http://www.w3.org/TR/NOTE-xml-ql/</ee>
+        <year>1998</year>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/xmlquery-use-cases">
+        <editor>Donald D. Chamberlin</editor>
+        <editor>Peter Fankhauser</editor>
+        <editor>Massimo Marchiori</editor>
+        <editor>Jonathan Robie</editor>
+        <title>XML Query Use Cases</title>
+        <year>2001</year>
+        <ee>http://www.w3.org/TR/xmlquery-use-cases</ee>
+    </www>
+    <www mdate="2019-05-27" key="www/org/w3/TR/REC-xml">
+        <title>W3C: Extensible Markup Language (XML) 1.0 - first edition.</title>
+        <ee>https://www.w3.org/TR/xml/</ee>
+        <year>1998</year>
+    </www>
+    <www mdate="2019-07-10" key="www/org/w3/http1-1">
+        <author>Roy T. Fielding</author>
+        <author>Henrik Frystyk Nielsen</author>
+        <author>Tim Berners-Lee</author>
+        <title>Internet Draft: Hypertext Transfer Protocol - HTTP/1.1</title>
+        <ee>http://www.w3.org/Protocols/HTTP/1.1/spec.html</ee>
+        <year>1999</year>
+    </www>
+    <www mdate="2016-10-21" key="www/de/kts">
+        <editor>Klaus Tschira</editor>
+        <title>Klaus Tschira Stiftung gemeinnü;tzige GmbH, KTS</title>
+        <ee>http://www.klaus-tschira-stiftung.de/</ee>
+        <year>2012</year>
+    </www>
+
+    <incollection mdate="2019-02-17" key="reference/snam/X18vo" publtype="encyclopedia">
+        <title>Multilayer.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100696</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18vo</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/KhouryKH18" publtype="encyclopedia">
+        <author>Richard Khoury</author>
+        <author>Raphaël Khoury</author>
+        <author>Abdelwahab Hamou-Lhadj</author>
+        <title>Microtext Processing.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_353</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#KhouryKH18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14wk" publtype="encyclopedia">
+        <title>Social Weight.</title>
+        <pages>1935</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100969</ee>
+        <url>db/reference/snam/snam2014.html#X14wk</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14to" publtype="encyclopedia">
+        <title>Sentiment Classification.</title>
+        <pages>1699</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100882</ee>
+        <url>db/reference/snam/snam2014.html#X14to</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14za" publtype="encyclopedia">
+        <title>Telecommunications Fraud.</title>
+        <pages>2107</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100076</ee>
+        <url>db/reference/snam/snam2014.html#X14za</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14yb" publtype="encyclopedia">
+        <title>Structural Autonomy.</title>
+        <pages>2075</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100508</ee>
+        <url>db/reference/snam/snam2014.html#X14yb</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18de" publtype="encyclopedia">
+        <title>Collaboration Metrics.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100119</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18de</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xoe" publtype="encyclopedia">
+        <title>Summary Statistics.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101294</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xoe</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/ShoaranTW18" publtype="encyclopedia">
+        <author>Maryam Shoaran</author>
+        <author>Alex Thomo</author>
+        <author>Jens H. Weber</author>
+        <title>Social Web Search.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_261</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#ShoaranTW18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/Kavanaugh14" publtype="encyclopedia">
+        <author>Andrea L. Kavanaugh</author>
+        <title>Web Communities Versus Physical Communities.</title>
+        <pages>2344-2355</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_225</ee>
+        <url>db/reference/snam/snam2014.html#Kavanaugh14</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14cp" publtype="encyclopedia">
+        <title>Collective Action.</title>
+        <pages>144</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100196</ee>
+        <url>db/reference/snam/snam2014.html#X14cp</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18z" publtype="encyclopedia">
+        <title>Anonymity.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100029</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18z</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ou" publtype="encyclopedia">
+        <title>Policy Networks.</title>
+        <pages>1290</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100454</ee>
+        <url>db/reference/snam/snam2014.html#X14ou</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xmo" publtype="encyclopedia">
+        <title>Spatio-temporal-Thematic Analysis.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101250</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xmo</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18rs" publtype="encyclopedia">
+        <title>Large-Scale Network.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100582</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18rs</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ut" publtype="encyclopedia">
+        <title>Social Engineering.</title>
+        <pages>1777</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100429</ee>
+        <url>db/reference/snam/snam2014.html#X14ut</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18mr" publtype="encyclopedia">
+        <title>Governance.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100417</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18mr</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18nl" publtype="encyclopedia">
+        <title>Graph-Tool.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100449</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18nl</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xri" publtype="encyclopedia">
+        <title>Type.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101394</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xri</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18ha" publtype="encyclopedia">
+        <title>Data Transformation.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100255</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18ha</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xms" publtype="encyclopedia">
+        <title>Spectral Technique.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101255</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xms</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14df" publtype="encyclopedia">
+        <title>Comparison Criteria.</title>
+        <pages>238</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100630</ee>
+        <url>db/reference/snam/snam2014.html#X14df</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xkx" publtype="encyclopedia">
+        <title>Social Reconnaissance.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101202</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xkx</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18b" publtype="encyclopedia">
+        <title>Activity Modelling.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100003</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18b</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14jd" publtype="encyclopedia">
+        <title>Microtext.</title>
+        <pages>893</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100940</ee>
+        <url>db/reference/snam/snam2014.html#X14jd</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/Munson18" publtype="encyclopedia">
+        <author>Ethan V. Munson</author>
+        <title>Unicode.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_127</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#Munson18</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xlq" publtype="encyclopedia">
+        <title>Sociomatrix.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101222</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xlq</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18kn" publtype="encyclopedia">
+        <title>Evolving Communities.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100357</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18kn</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/ClarkM14" publtype="encyclopedia">
+        <author>Kevin D. Clark</author>
+        <author>Patrick G. Maggitti</author>
+        <title>Top Management Team Networks.</title>
+        <pages>2175-2178</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_373</ee>
+        <url>db/reference/snam/snam2014.html#ClarkM14</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14jz" publtype="encyclopedia">
+        <title>Movement.</title>
+        <pages>989</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100519</ee>
+        <url>db/reference/snam/snam2014.html#X14jz</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14nl" publtype="encyclopedia">
+        <title>Optimal Scaling.</title>
+        <pages>1218</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110011</ee>
+        <url>db/reference/snam/snam2014.html#X14nl</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xeq" publtype="encyclopedia">
+        <title>Regression Model.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100969</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xeq</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14dl" publtype="encyclopedia">
+        <title>Computational Social Science.</title>
+        <pages>250</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100725</ee>
+        <url>db/reference/snam/snam2014.html#X14dl</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14x" publtype="encyclopedia">
+        <title>Applications.</title>
+        <pages>56</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110125</ee>
+        <url>db/reference/snam/snam2014.html#X14x</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14iq" publtype="encyclopedia">
+        <title>Massively Multiplayer Online Game.</title>
+        <pages>870</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100330</ee>
+        <url>db/reference/snam/snam2014.html#X14iq</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14mc" publtype="encyclopedia">
+        <title>Node Centrality.</title>
+        <pages>1153</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100642</ee>
+        <url>db/reference/snam/snam2014.html#X14mc</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xnv" publtype="encyclopedia">
+        <title>Subgraph Evolution.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101285</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xnv</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xdv" publtype="encyclopedia">
+        <title>R.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100944</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xdv</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xrg" publtype="encyclopedia">
+        <title>Two-Hop Neighbors.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101392</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xrg</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xpe" publtype="encyclopedia">
+        <title>Temporal Analytics.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101323</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xpe</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18pq" publtype="encyclopedia">
+        <title>Information Provenance.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100512</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18pq</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/Holme14" publtype="encyclopedia">
+        <author>Petter Holme</author>
+        <title>Temporal Networks.</title>
+        <pages>2119-2129</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_42</ee>
+        <url>db/reference/snam/snam2014.html#Holme14</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/Batista18" publtype="encyclopedia">
+        <author>Luana Batista</author>
+        <title>User Sentiment and Opinion Analysis.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_192</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#Batista18</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18to" publtype="encyclopedia">
+        <title>Massively Multiplayer Online Game.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100636</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18to</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18vm" publtype="encyclopedia">
+        <title>Multidimensional Social Networks.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100694</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18vm</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xjw" publtype="encyclopedia">
+        <title>Social Navigation.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101144</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xjw</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xlk" publtype="encyclopedia">
+        <title>Social Yield.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101215</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xlk</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18up" publtype="encyclopedia">
+        <title>Misinformation.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100668</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18up</url>
+    </incollection>
+    <incollection mdate="2025-02-11" key="reference/snam/OliverTES14" publtype="encyclopedia">
+        <author>Dev Oliver</author>
+        <author>Rupa Tiwari</author>
+        <author>Michael R. Evans</author>
+        <author>Shashi Shekhar 0001</author>
+        <title>Disaster Response and Relief, VGI Volunteer Motivation in.</title>
+        <pages>370-380</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_57</ee>
+        <url>db/reference/snam/snam2014.html#OliverTES14</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14lb" publtype="encyclopedia">
+        <title>Network Entrepreneurs.</title>
+        <pages>1092</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100506</ee>
+        <url>db/reference/snam/snam2014.html#X14lb</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14cs" publtype="encyclopedia">
+        <title>Collective Response.</title>
+        <pages>190</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100110</ee>
+        <url>db/reference/snam/snam2014.html#X14cs</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xdr" publtype="encyclopedia">
+        <title>Query Spelling Correction.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100940</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xdr</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14bi" publtype="encyclopedia">
+        <title>Centrality.</title>
+        <pages>87</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110006</ee>
+        <url>db/reference/snam/snam2014.html#X14bi</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14id" publtype="encyclopedia">
+        <title>Logic Programming.</title>
+        <pages>843</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100876</ee>
+        <url>db/reference/snam/snam2014.html#X14id</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14xde" publtype="encyclopedia">
+        <title>XHTML.</title>
+        <pages>2425</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100421</ee>
+        <url>db/reference/snam/snam2014.html#X14xde</url>
+    </incollection>
+    <incollection mdate="2023-01-06" key="reference/snam/ChesterKS0T18" publtype="encyclopedia">
+        <author>Sean Chester</author>
+        <author>Bruce M. Kapron</author>
+        <author>Gautam Srivastava 0001</author>
+        <author>Venkatesh Srinivasan 0001</author>
+        <author>Alex Thomo</author>
+        <title>Anonymization and De-anonymization of Social Network Data.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_22</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#ChesterKS0T18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/GhimCS14" publtype="encyclopedia">
+        <author>Ghi-Hoon Ghim</author>
+        <author>Namun Cho</author>
+        <author>Jeong-Su Seo</author>
+        <title>NetMiner.</title>
+        <pages>1025-1037</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_305</ee>
+        <url>db/reference/snam/snam2014.html#GhimCS14</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xey" publtype="encyclopedia">
+        <title>Relationship Extraction.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100978</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xey</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xlz" publtype="encyclopedia">
+        <title>Spam Review.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101231</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xlz</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18ev" publtype="encyclopedia">
+        <title>Components.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100184</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18ev</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14yw" publtype="encyclopedia">
+        <title>Taxonomies.</title>
+        <pages>2107</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100053</ee>
+        <url>db/reference/snam/snam2014.html#X14yw</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14bd" publtype="encyclopedia">
+        <title>Caching.</title>
+        <pages>87</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100896</ee>
+        <url>db/reference/snam/snam2014.html#X14bd</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18yx" publtype="encyclopedia">
+        <title>Online Retail.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100804</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18yx</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14fd" publtype="encyclopedia">
+        <title>Data Mining and Knowledge Discovery in Economic Networks.</title>
+        <pages>341</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100294</ee>
+        <url>db/reference/snam/snam2014.html#X14fd</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18ct" publtype="encyclopedia">
+        <title>Cloud Services.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100103</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18ct</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xst" publtype="encyclopedia">
+        <title>Visualization.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101436</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xst</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/Vitak18" publtype="encyclopedia">
+        <author>Jessica Vitak</author>
+        <title>Privacy and Disclosure in a Social Networking Community.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_206</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#Vitak18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ak" publtype="encyclopedia">
+        <title>Bayesian Networks.</title>
+        <pages>73</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100979</ee>
+        <url>db/reference/snam/snam2014.html#X14ak</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ij" publtype="encyclopedia">
+        <title>Map.</title>
+        <pages>848</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110129</ee>
+        <url>db/reference/snam/snam2014.html#X14ij</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14lt" publtype="encyclopedia">
+        <title>Network Similarity.</title>
+        <pages>1122</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100588</ee>
+        <url>db/reference/snam/snam2014.html#X14lt</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14tk" publtype="encyclopedia">
+        <title>Semantic Web Service Composition.</title>
+        <pages>1669</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100561</ee>
+        <url>db/reference/snam/snam2014.html#X14tk</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14pp" publtype="encyclopedia">
+        <title>Probability Distributions.</title>
+        <pages>1416</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100157</ee>
+        <url>db/reference/snam/snam2014.html#X14pp</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/MohrB18" publtype="encyclopedia">
+        <author>John W. Mohr</author>
+        <author>Petko Bogdanov</author>
+        <title>Collection and Analysis of Relational Data from Digital Archives.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_272</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#MohrB18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14jo" publtype="encyclopedia">
+        <title>Mobile Computing.</title>
+        <pages>950</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100729</ee>
+        <url>db/reference/snam/snam2014.html#X14jo</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ps" publtype="encyclopedia">
+        <title>Process Discovery.</title>
+        <pages>1418</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100683</ee>
+        <url>db/reference/snam/snam2014.html#X14ps</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ap" publtype="encyclopedia">
+        <title>Bibliometrics.</title>
+        <pages>82</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110038</ee>
+        <url>db/reference/snam/snam2014.html#X14ap</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14uw" publtype="encyclopedia">
+        <title>Social Grids.</title>
+        <pages>1783</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100462</ee>
+        <url>db/reference/snam/snam2014.html#X14uw</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14qs" publtype="encyclopedia">
+        <title>Ranking.</title>
+        <pages>1488</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100125</ee>
+        <url>db/reference/snam/snam2014.html#X14qs</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18jx" publtype="encyclopedia">
+        <title>e-Research.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100337</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18jx</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/Dwyer14" publtype="encyclopedia">
+        <author>Catherine Dwyer</author>
+        <title>Online Social Network Privacy Management.</title>
+        <pages>1206-1209</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_338</ee>
+        <url>db/reference/snam/snam2014.html#Dwyer14</url>
+    </incollection>
+    <incollection mdate="2019-09-17" key="reference/snam/CaverleeC18" publtype="encyclopedia">
+        <author>James Caverlee</author>
+        <author>Zhiyuan Cheng 0001</author>
+        <title>Geography and Web Communities.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_220</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#CaverleeC18</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18vw" publtype="encyclopedia">
+        <title>Multiplex Social Networks.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100705</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18vw</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18ci" publtype="encyclopedia">
+        <title>CGI.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100092</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18ci</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18od" publtype="encyclopedia">
+        <title>Hierarchy.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100467</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18od</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14xj" publtype="encyclopedia">
+        <title>Statistical Analysis.</title>
+        <pages>2056</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100073</ee>
+        <url>db/reference/snam/snam2014.html#X14xj</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14vv" publtype="encyclopedia">
+        <title>Social Networks Members.</title>
+        <pages>1918</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110099</ee>
+        <url>db/reference/snam/snam2014.html#X14vv</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14sm" publtype="encyclopedia">
+        <title>Scamming.</title>
+        <pages>1643</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100411</ee>
+        <url>db/reference/snam/snam2014.html#X14sm</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xbg" publtype="encyclopedia">
+        <title>Personally Identifiable Information.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100873</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xbg</url>
+    </incollection>
+    <incollection mdate="2019-10-19" key="reference/snam/BaderKM00W18" publtype="encyclopedia">
+        <author orcid="0000-0002-7380-5876">David A. Bader</author>
+        <author>Andrea Kappes</author>
+        <author>Henning Meyerhenke</author>
+        <author>Peter Sanders 0001</author>
+        <author>Christian Schulz 0003</author>
+        <author>Dorothea Wagner</author>
+        <title>Benchmarking for Graph Clustering and Partitioning.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_23</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#BaderKM00W18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14xcr" publtype="encyclopedia">
+        <title>Weblike Networks.</title>
+        <pages>2355</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100785</ee>
+        <url>db/reference/snam/snam2014.html#X14xcr</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14dp" publtype="encyclopedia">
+        <title>Connectivity.</title>
+        <pages>262</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100394</ee>
+        <url>db/reference/snam/snam2014.html#X14dp</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xfc" publtype="encyclopedia">
+        <title>Relevance Functions.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100983</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xfc</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xck" publtype="encyclopedia">
+        <title>Prevention.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101505</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xck</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18ud" publtype="encyclopedia">
+        <title>Methods.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100654</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18ud</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14et" publtype="encyclopedia">
+        <title>Cyberinfrastructure.</title>
+        <pages>318</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100813</ee>
+        <url>db/reference/snam/snam2014.html#X14et</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/WachowiczCR18" publtype="encyclopedia">
+        <author>Monica Wachowicz</author>
+        <author>Sangwhan Cha</author>
+        <author>Chiara Renso</author>
+        <title>Social Internet of Mobile Things and Decision Support Tools.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_327</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#WachowiczCR18</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xal" publtype="encyclopedia">
+        <title>Over-Justification.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100849</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xal</url>
+    </incollection>
+    <incollection mdate="2022-10-02" key="reference/snam/Bielenia-Grajewska18" publtype="encyclopedia">
+        <author orcid="0000-0003-0450-4209">Magdalena Bielenia-Grajewska</author>
+        <title>Online Identities and Social Networks in Organizational Settings.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_337</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#Bielenia-Grajewska18</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14wy" publtype="encyclopedia">
+        <title>Spatial Scan Statistic.</title>
+        <pages>1976</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100088</ee>
+        <url>db/reference/snam/snam2014.html#X14wy</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xmt" publtype="encyclopedia">
+        <title>Stance Detection.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101256</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xmt</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14xay" publtype="encyclopedia">
+        <title>Update.</title>
+        <pages>2289</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100965</ee>
+        <url>db/reference/snam/snam2014.html#X14xay</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/Wen14" publtype="encyclopedia">
+        <author>Zhen Wen</author>
+        <title>Trust in Social Networks.</title>
+        <pages>2215-2216</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_295</ee>
+        <url>db/reference/snam/snam2014.html#Wen14</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/DiesnerS14" publtype="encyclopedia">
+        <author>Jana Diesner</author>
+        <author>Marc A. Smith</author>
+        <title>Combining Online Maps with Text Analysis.</title>
+        <pages>202-206</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_328</ee>
+        <url>db/reference/snam/snam2014.html#DiesnerS14</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xcd" publtype="encyclopedia">
+        <title>Power Networks.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_100897</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xcd</url>
+    </incollection>
+    <incollection mdate="2019-02-17" key="reference/snam/X18xoh" publtype="encyclopedia">
+        <title>Supply Chain Management.</title>
+        <year>2018</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4939-7131-2_101297</ee>
+        <crossref>reference/snam/2018</crossref>
+        <url>db/reference/snam/snam2018.html#X18xoh</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14mf" publtype="encyclopedia">
+        <title>Non-Gaussianity.</title>
+        <pages>1170</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100634</ee>
+        <url>db/reference/snam/snam2014.html#X14mf</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14ao" publtype="encyclopedia">
+        <title>Biased Graph.</title>
+        <pages>82</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100584</ee>
+        <url>db/reference/snam/snam2014.html#X14ao</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/OHara14" publtype="encyclopedia">
+        <author>Kieron O'Hara</author>
+        <title>Web Science.</title>
+        <pages>2378-2389</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_131</ee>
+        <url>db/reference/snam/snam2014.html#OHara14</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14pc" publtype="encyclopedia">
+        <title>Post.</title>
+        <pages>1319</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_100941</ee>
+        <url>db/reference/snam/snam2014.html#X14pc</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/ChawlaY14" publtype="encyclopedia">
+        <author>Nitesh V. Chawla</author>
+        <author>Yang Yang 0008</author>
+        <title>Link Prediction: A Primer.</title>
+        <pages>813-820</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_365</ee>
+        <url>db/reference/snam/snam2014.html#ChawlaY14</url>
+    </incollection>
+    <incollection mdate="2017-07-12" key="reference/snam/X14qu" publtype="encyclopedia">
+        <title>Real-Time Social Media Analysis.</title>
+        <pages>1499</pages>
+        <year>2014</year>
+        <booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4614-6170-8_110062</ee>
+        <url>db/reference/snam/snam2014.html#X14qu</url>
+    </incollection>
+</dblp>
