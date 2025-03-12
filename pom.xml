@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.scut</groupId>
-    <artifactId>document-manager-base-on-DBPL</artifactId>
+    <artifactId>document-manager-base-on-DBLP</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>document-manager-base-on-DBPL</name>
     <description>document-manager-base-on-DBPL</description>
